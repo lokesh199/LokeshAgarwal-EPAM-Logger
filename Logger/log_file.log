@@ -1,0 +1,32 @@
+2020-02-24 23:39:44 INFO  App:37 - 	Select Program	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-24 23:39:50 INFO  App:117 - enter the principal amount , rate of interest per annum , time in years , frequency of compounding in a year
+2020-02-24 23:40:00 INFO  App:55 - Compound Interest = 9892.553653873623
+2020-02-24 23:40:00 INFO  App:63 - 
+Would You Like To Continue (y/n) : 
+2020-02-24 23:40:03 INFO  App:37 - 	Select Program	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-24 23:40:10 INFO  App:82 - List Of Construction Plans
+2020-02-24 23:40:10 INFO  App:86 - 1. Above Standard Material Costs 1500 per square feet
+2020-02-24 23:40:10 INFO  App:86 - 2. Standard Material Costs 1200 per square feet
+2020-02-24 23:40:10 INFO  App:86 - 3. High Standard Material Costs 1800 per square feet
+2020-02-24 23:40:10 INFO  App:86 - 4. High Standard And Fully Automated Material Costs 2500 per square feet
+2020-02-24 23:40:12 INFO  App:100 - Enter Area Of The House (Length x breadth) : 
+
+2020-02-24 23:40:18 INFO  App:104 - Cost for construction = 300000000 INR
+2020-02-24 23:40:18 INFO  App:63 - 
+Would You Like To Continue (y/n) : 
+2020-02-24 23:40:24 INFO  App:66 - Program Terminated Successfully
+
